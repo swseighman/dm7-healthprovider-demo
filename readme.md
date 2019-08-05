@@ -1,4 +1,4 @@
-Repository Init Content
+dm7-healthprovider-demo
 =======================
 
-Your project description here.
+Decision Manager Demo
